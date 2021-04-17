@@ -7,4 +7,5 @@ WeatherApp created on React Native
 Copyright (c) 2021 rucosmonaut
 
 Scan this QRCode in Expo client to open app on your phone
+<br>
 <img src="https://github.com/rucosmonaut/WeatherApp/blob/main/expo-app.png" >
