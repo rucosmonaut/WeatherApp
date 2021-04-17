@@ -6,7 +6,8 @@ import axios from 'axios'
 import Loading from "./Loading";
 import Weather from "./Weather";
 
-const API_KEY = '7bc061ba1b2adbdae03c2214aee932b0';
+//OpenWeatherMap api key
+const API_KEY = '';
 
 export default class extends Component {
 
